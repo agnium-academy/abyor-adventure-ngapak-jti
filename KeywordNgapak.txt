@@ -4,7 +4,6 @@
 *******************************************************
 *******************************************************/
 
-
 makan 
 tidur
 main
@@ -17,11 +16,22 @@ pakaian kotor
 aku
 kamu
 
-/*****K A L I M A T*****\
+makan -> madang, mangan, mbadog, nyekek, maem, dahar
+tidur -> turu, tilem, sare
+main -> dolan, nglayab,
+minum -> nginum, mgombe, ngunjuk
+beli -> tuku, tumbas
+jual -> adol
+kotor 
+jemuran -> tlawungan, pemean
+pakaian kotor ->
+aku -> enyong, kula
+kamu -> kowe, rika, sampean, njenengan
 
-1). Kalo bulan bisa ngomong, dia pasti tak akan bohong.
-
+<<<<<<< HEAD
 2). Kita anak front-end, kita doyannya ngoding pake tampilan. ANTI BACK-END!
 
 1. Nek wulan bisa nyocot, kae musti ora bakalan goroh.
 2. Dewek bocah frontend, dewek doyane ngoding nggo tampilan, ANTI BackEnd !!!
+=======
+>>>>>>> origin/master
