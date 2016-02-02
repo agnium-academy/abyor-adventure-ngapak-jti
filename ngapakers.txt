@@ -2,4 +2,19 @@
 
 Bersatu kita kompak
 Enggak ngapak enggak enak 
+<<<<<<< Updated upstream
 Yang enggak enggak ajaa
+=======
+<<<<<<< Updated upstream
+
+				Kamus Ngapak
+		
+1. Hasani 			-> penyusun kata B.Indonesia
+2. Tegareng			-> penerjemah kata B.Indonesia ke kata Ngapak
+3. Albert Bongkrek		-> penyusun kalimat B.Indonesia
+4. Iqbal Oyonz			-> penerjemah kalimat B.Indonesia ke kalimat Ngapak
+=======
+Yang enggak enggak ajaa
+Makin enggak makin enak
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
