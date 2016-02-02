@@ -17,7 +17,7 @@ aku
 kamu
 
 makan -> madang, mangan, mbadog, nyekek, maem, dahar
-tidur -> turu, tilem, sare
+tidur -> turu, tilem, sare,
 main -> dolan, nglayab,
 minum -> nginum, mgombe, ngunjuk
 beli -> tuku, tumbas
