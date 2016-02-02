@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C
+=======
+file C
+>>>>>>> origin/MACAN
