@@ -15,6 +15,8 @@ pakaian kotor
 aku
 kamu
 jangan
+dulu
+air
 
 makan -> madang, mangan, mbadog, nyekek, maem, dahar
 tidur -> turu, tilem, sare,
@@ -27,6 +29,8 @@ pakaian kotor ->
 aku -> enyong, kula
 kamu -> kowe, rika, sampean, njenengan
 jangan -> aja
+dulu -> disit
+air -> banyu
 
 2). Kita anak front-end, kita doyannya ngoding pake tampilan. ANTI BACK-END!
 
