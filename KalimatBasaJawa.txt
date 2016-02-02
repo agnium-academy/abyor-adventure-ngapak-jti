@@ -10,9 +10,9 @@ Haha, anti backend, wkwkwkwkw
 Tambahan lagi, commit tapi belum push
 Tralala Trilili
 
-<<<<<<< HEAD
+
 Coba mengedit lagi untuk tambah keren brot
-=======
+
 
 Coba lah GIT
->>>>>>> 08b6b190e50c4c1e3d73a192ddfec8d0c9c697b8
+
