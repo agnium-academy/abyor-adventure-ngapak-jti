@@ -10,7 +10,6 @@ main
 minum
 beli
 jual
-kotor
 jemuran
 pakaian kotor
 aku
@@ -21,8 +20,7 @@ tidur -> turu, tilem, sare,
 main -> dolan, nglayab,
 minum -> nginum, mgombe, ngunjuk
 beli -> tuku, tumbas
-jual -> adol
-kotor 
+jual -> adol 
 jemuran -> tlawungan, pemean
 pakaian kotor ->
 aku -> enyong, kula
