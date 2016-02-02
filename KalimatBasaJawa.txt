@@ -9,4 +9,6 @@ Haha, anti backend, wkwkwkwkw
 
 Tambahan lagi, commit tapi belum push
 Tralala Trilili
->>>>>>> origin/master
+
+
+Coba lah GIT
