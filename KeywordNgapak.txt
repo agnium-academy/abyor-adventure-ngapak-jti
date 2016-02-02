@@ -28,10 +28,7 @@ pakaian kotor ->
 aku -> enyong, kula
 kamu -> kowe, rika, sampean, njenengan
 
-<<<<<<< HEAD
 2). Kita anak front-end, kita doyannya ngoding pake tampilan. ANTI BACK-END!
 
 1. Nek wulan bisa nyocot, kae musti ora bakalan goroh.
 2. Dewek bocah frontend, dewek doyane ngoding nggo tampilan, ANTI BackEnd !!!
-=======
->>>>>>> origin/master
