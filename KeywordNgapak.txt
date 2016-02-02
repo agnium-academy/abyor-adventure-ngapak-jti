@@ -14,6 +14,8 @@ jemuran
 pakaian kotor
 aku
 kamu
+dulu
+air
 
 makan -> madang, mangan, mbadog, nyekek, maem, dahar
 tidur -> turu, tilem, sare,
@@ -25,6 +27,8 @@ jemuran -> tlawungan, pemean
 pakaian kotor ->
 aku -> enyong, kula
 kamu -> kowe, rika, sampean, njenengan
+dulu -> disit
+air -> banyu
 
 2). Kita anak front-end, kita doyannya ngoding pake tampilan. ANTI BACK-END!
 
